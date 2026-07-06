@@ -28,7 +28,7 @@ This project investigates which content and communication strategies most effect
 - 🗂️ [Coding Instruments (PDF)](./BUS_249_Coding_Instruments.pdf) — the full qualitative and quantitative coding schemas, with operational definitions, examples, and score descriptions
 [![Coding Instruments](https://github.com/ambrosia-ardenvale/brand-audience-mixed-methods-analysis/raw/main/BUS_249_Coding_Instruments.png)](./BUS_249_Coding_Instruments.pdf)
 - 📈 [Analysis Summary (PDF)](./BUS_249_Analysis_Summary.pdf) — category/dimension averages plus analyst commentary connecting qualitative and quantitative findings
-[![Analysis Summary](https://github.com/ambrosia-ardenvale/brand-audience-mixed-methods-analysis/raw/main/BUS_249_Analysis_Summary.png)](./BUS_249_Analysis_Summary.pdf)
+[![Analysis Summary](https://github.com/ambrosia-ardenvale/brand-audience-mixed-methods-analysis/raw/main/BUS_249_Analysis_Summary.png#page=1)](./BUS_249_Analysis_Summary.pdf)
 - 📁 [Full Coding Data (Excel)](./BUS_249_Qual_Quant_Research.xlsx) — raw and coded data underlying both research tracks, including formulas and named data tables
 
 ## Tools
